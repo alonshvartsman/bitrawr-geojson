@@ -243,7 +243,7 @@
         "address": "543A N Marine Corps Drive\nTamuning, 9613\nGuam",
         "hours": "Mon-Fri: 9:00 am – 6:00 pm\nSat-Sun: Closed",
         "phone_number": "671-888-8888",
-        "website": "www.iconnectguam.com"
+        "website": "https://www.iconnectguam.com"
       },
       "geometry": {
         "type": "Point",
