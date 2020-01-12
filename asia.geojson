@@ -63,7 +63,7 @@
         "address": "8 Power St\nMelbourne, VIC 3006\nAustralia",
         "hours": "Mon-Thu: 7:00 am – 12:00 am\nFri-Sat: 7:00 am – 1:00 am\nSun: 8:00 am – 12:00 am",
         "phone_number": "61 3 9682 7722",
-        "website": "letsave.com.au"
+        "website": "lhttps://www.etsave.com.au"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +81,7 @@
         "address": "1 Main St\nBox Hill, VIC 3128\nAustralia",
         "hours": "Mon-Wed: 9:00 am – 5:30 pm\nThu: 9:00 am – 7:00 pm\nFri: 9:00 am – 9:00 pm\nSat: 9:00 am – 5:00 pm\nSun: 10:00 am – 5:00 pm",
         "phone_number": "61 3 9843 3900",
-        "website": "boxhillcentral.com.au"
+        "website": "https://www.boxhillcentral.com.au"
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +261,7 @@
         "address": "Makati Ave\nMakati\n1210 Metro Manila\nPhilippines",
         "hours": "Open 24/7",
         "phone_number": "63 2 895 2726",
-        "website": "sunette.com.ph"
+        "website": "https://www.sunette.com.ph"
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +279,7 @@
         "address": "C-03A-2 & C-03-2, Block C Plaza Glomac, Jalan SS 7/19, SS 7\n47301 Petaling Jaya, Selangor\nMalaysia.",
         "hours": "Mon-Sat: 10:30 am – 7:30 pm\nSun: Closed",
         "phone_number": "60 3-7886 7322",
-        "website": "miningpuppets.com"
+        "website": "https://www.miningpuppets.com"
       },
       "geometry": {
         "type": "Point",
@@ -387,7 +387,7 @@
         "address": "233 Electric Rd\nNorth Point\nHong Kong",
         "hours": "Open 24/7",
         "phone_number": "65 9864 9563",
-        "website": "bitmac.org"
+        "website": "https://www.bitmac.org"
       },
       "geometry": {
         "type": "Point",
@@ -423,7 +423,7 @@
         "address": "G/F,\nHang Wai Industrial Centre,\n6 Kin Tai Street,\nTuen Mun,\nN.T.",
         "hours": "Open 24/7",
         "phone_number": "",
-        "website": "\ngenesisblockhk.com"
+        "website": "https://www.ngenesisblockhk.com"
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +441,7 @@
         "address": "33-35 Hillier St\nSheung Wan\nHong Kong",
         "hours": "Mon-Fri: 8:00 am – 8:00 pm",
         "phone_number": "852 3460 5616",
-        "website": "https://thehivesheungwan.com.hk/"
+        "website": "https://www.thehivesheungwan.com.hk/"
       },
       "geometry": {
         "type": "Point",
@@ -459,7 +459,7 @@
         "address": "Shop 117, New Capital Computer Centre,\n85-95 Un Chau Street, Sham Shui Po, Kowloon\nHong Kong",
         "hours": "Mon-Sun: 12:00 pm – 8:00 pm",
         "phone_number": "852 2708 3886",
-        "website": "nccp.hk"
+        "website": "https://www.nccp.hk"
       },
       "geometry": {
         "type": "Point",
@@ -477,7 +477,7 @@
         "address": "Shop 206, 2/F, Mira Place, 132 Nathan Rd\nTsim Sha Tsui\nHong Kong",
         "hours": "Mon-Sun: 12:00 – 9:00 pm",
         "phone_number": "852 2730 5300",
-        "website": "miraplace.com.hk"
+        "website": "https://www.miraplace.com.hk"
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +495,7 @@
         "address": "Unit 01-04, 7/F, FTLife Tower, No. 18 Sheung Yuet Road\nKowloon Bay, Hong Kong\nHong Kong",
         "hours": "Mon-Fri: 9:00 – 18:00",
         "phone_number": "852 2376 5000",
-        "website": "bitwork.asia"
+        "website": "https://www.bitwork.asia"
       },
       "geometry": {
         "type": "Point",
@@ -513,7 +513,7 @@
         "address": "35 Aberdeen Street, HG01-HG05, G/F, Block B, PMQ\nHong Kong\nHong Kong",
         "hours": "Open 24/7",
         "phone_number": "852 2818 5438",
-        "website": "https://garden-meow.business.site/"
+        "website": "https://www.garden-meow.business.site/"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +531,7 @@
         "address": "75 Hung To Rd, 6/F, KOHO\nKwun Tong\nHong Kong",
         "hours": "Mon-Fri: 9:00 am – 7:00 pm",
         "phone_number": "852 2204 4388",
-        "website": "westarthk.com"
+        "website": "https://www.westarthk.com"
       },
       "geometry": {
         "type": "Point",
@@ -567,7 +567,7 @@
         "address": "40-44 Bonham Strand\nSheung Wan\nHong Kong",
         "hours": "Mon-Sun: 8:00 am – 8:00 pm",
         "phone_number": "852 3996 9561",
-        "website": "genesisblockhk.com"
+        "website": "https://www.genesisblockhk.com"
       },
       "geometry": {
         "type": "Point",
@@ -585,7 +585,7 @@
         "address": "Cke shopping Mall\n36 Nathan Road\nTsim Sha Tsui",
         "hours": "Mon-Sun: 8:00 am – 11:30 pm",
         "phone_number": "852 2366 8806",
-        "website": "cke.com.hk"
+        "website": "https://www.cke.com.hk"
       },
       "geometry": {
         "type": "Point",
