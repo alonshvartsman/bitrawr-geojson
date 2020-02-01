@@ -9,7 +9,7 @@
         "address": "Unit U61a, Sandton City\n83 Rivonia Rd, Sandhurst\nSandton, 2196\nSouth Africa",
         "hours": "Mon-Sat: 9:00 am – 8:00 pm\nSun: 9:00 am – 6:00 pm",
         "phone_number": "27 11 217 6000",
-        "website": "sandtoncity.com"
+        "website": "https://www.sandtoncity.com"
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +27,7 @@
         "address": "Corner West and Brits\nPretoria\nSouth Africa",
         "hours": "",
         "phone_number": "27 12 546 4131",
-        "website": "saverite.co.za"
+        "website": "https://www.saverite.co.za"
       },
       "geometry": {
         "type": "Point",
