@@ -225,7 +225,7 @@
         "address": "Transversal 99 #70A - 89 Alamos\r\nEngativá, Cundinamarca\r\nColombia",
         "hours": "Mon-Sat: 9:00 am – 8:00 pm\r\nSun: 10:00 am – 5:00 pm",
         "phone_number": "+57 301 5555555",
-        "website": "https://frisby.com.co/"
+        "website": "https://www.frisby.com.co/"
       },
       "geometry": {
         "type": "Point",
@@ -333,7 +333,7 @@
         "address": "Calle 30 #25-71\nFloridablanca, Santander\nColombia",
         "hours": "Mon-Sun: 7:00 am – 10:00 pm",
         "phone_number": "+57 7 6386769",
-        "website": "https://canaveralcc.com/"
+        "website": "https://www.canaveralcc.com/"
       },
       "geometry": {
         "type": "Point",
@@ -423,7 +423,7 @@
         "address": "Carrera 51B # 84-185 Local 101B\nBarranquilla\nColombia",
         "hours": "Mon-Sun: 11:00 am – 9:00 pm",
         "phone_number": "+57 300 3038592",
-        "website": "https://tar-zam.com/"
+        "website": "https://www.tar-zam.com/"
       },
       "geometry": {
         "type": "Point",
@@ -477,7 +477,7 @@
         "address": "Carrera 65 #8B-91\r\nMedellin, Antioquia\r\nColombia",
         "hours": "Open 24/7",
         "phone_number": "+57 4 3611588",
-        "website": "https://terminaldelsur.com/"
+        "website": "https://www.terminaldelsur.com/"
       },
       "geometry": {
         "type": "Point",
