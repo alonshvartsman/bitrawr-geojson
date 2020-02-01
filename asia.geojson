@@ -63,7 +63,7 @@
         "address": "8 Power St\nMelbourne, VIC 3006\nAustralia",
         "hours": "Mon-Thu: 7:00 am – 12:00 am\nFri-Sat: 7:00 am – 1:00 am\nSun: 8:00 am – 12:00 am",
         "phone_number": "61 3 9682 7722",
-        "website": "lhttps://www.etsave.com.au"
+        "website": "https://www.etsave.com.au"
       },
       "geometry": {
         "type": "Point",
