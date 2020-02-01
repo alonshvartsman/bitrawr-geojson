@@ -9,7 +9,7 @@
         "address": "King George St 32 St\nTel-Aviv\nIsrael",
         "hours": "Sun-Thu: 10:00 am – 7:45 pm\nFri: 10:00 am – 2:00 pm\nSat: Closed",
         "phone_number": "03-918-1167",
-        "website": "https://www.bitcoinchange.co.il"
+        "website": "http://www.bitcoinchange.co.il"
       },
       "geometry": {
         "type": "Point",
