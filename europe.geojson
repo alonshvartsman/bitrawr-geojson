@@ -9,7 +9,7 @@
         "address": "King George St 32 St\nTel-Aviv\nIsrael",
         "hours": "Sun-Thu: 10:00 am – 7:45 pm\nFri: 10:00 am – 2:00 pm\nSat: Closed",
         "phone_number": "03-918-1167",
-        "website": "bitcoinchange.co.il"
+        "website": "https://www.bitcoinchange.co.il"
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +27,7 @@
         "address": "Ahuzat Bayit St 1, \nTel Aviv\nIsrael",
         "hours": "Sun-Thu: 9:30 am – 6:00 pm\nFri-Sat: Closed",
         "phone_number": "03-544-0242",
-        "website": "bitembassy.org"
+        "website": "https://www.bitembassy.org"
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +45,7 @@
         "address": "Gamrekeli str.2\nTbilisi, 0194\nGeorgia",
         "hours": "Mon-Sun: 9:00 – 10:00",
         "phone_number": "",
-        "website": "axis.ge"
+        "website": "https://www.axis.ge"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +63,7 @@
         "address": "Avinguda de Rio de Janeiro, 42\n08016 Barcelona\nSpain",
         "hours": "Open 24/7",
         "phone_number": "34 932 76 50 70",
-        "website": "sommultiespai.com"
+        "website": "https://www.sommultiespai.com"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +81,7 @@
         "address": "Carrer de Salvador Espriu, 61\n08005 Barcelona\nSpain",
         "hours": "Sun-Thu: 9:00 am – 0:30 am\nFri-Sat: 9:00 am – 1:00 am",
         "phone_number": "34 932 21 09 09",
-        "website": "elcentredelavila.es"
+        "website": "https://www.elcentredelavila.es"
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +99,7 @@
         "address": "Av. de la Marina\n08830 Sant Boi de Llobregat, Barcelona\nSpain",
         "hours": "Mon-Sun: 9:00 am – 9:00 pm",
         "phone_number": "34 936 40 72 92",
-        "website": "ccsantboi.es"
+        "website": "https://www.ccsantboi.es"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
         "address": "Carrer de Bilbao, 91, Local 1, 08005 \nBarcelona, Spain",
         "hours": "Mon-Fri: 8am–2pm 3:30–7:30pm\nSat-Sun: Closed",
         "phone_number": "34 933 08 77 88",
-        "website": "mbe.es"
+        "website": "https://www.mbe.es"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +135,7 @@
         "address": "Av. Pablo Neruda, 91\n28018 Madrid\nSpain",
         "hours": "Mon-Sun: 9:00 am – 12:00 pm",
         "phone_number": "34 915 07 97 10",
-        "website": "ccmadridsur.es"
+        "website": "https://www.ccmadridsur.es"
       },
       "geometry": {
         "type": "Point",
@@ -153,7 +153,7 @@
         "address": "Calle del Duque de Wellington 6\n01010 Vitoria-Gasteiz, Álava\nSpain",
         "hours": "Mon-Sun: 9:30 am – 9:30 pm\n",
         "phone_number": "34 945 17 73 23",
-        "website": "lakuacentro.com"
+        "website": "https://www.lakuacentro.com"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +171,7 @@
         "address": "Calle Isaac Peral\nMadrid, 28521\nSpain",
         "hours": "Mon-Sun: 10:00 am – 10:00 pm",
         "phone_number": "34 917 51 80 78",
-        "website": "parquerivasfutura.es"
+        "website": "https://www.parquerivasfutura.es"
       },
       "geometry": {
         "type": "Point",
@@ -189,7 +189,7 @@
         "address": "Calle Torija 5\n28013 Madrid\nSpain",
         "hours": "Mon-Fri: 11:00 am – 7:00 pm",
         "phone_number": "34 680 90 60 98",
-        "website": "vatcointech.com"
+        "website": "https://www.vatcointech.com"
       },
       "geometry": {
         "type": "Point",
@@ -207,7 +207,7 @@
         "address": "Av. del Rey Juan Carlos I, 18\n29700 Vélez-Málaga\nSpain",
         "hours": "Mon-Sat: 9:00 am – 10:00 pm\nSun: 11:00 am – 11:30 pm",
         "phone_number": "34 952 54 72 67",
-        "website": "elingenio.es"
+        "website": "https://www.elingenio.es"
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +225,7 @@
         "address": "Calle Jaén, 3\n29004 Málaga\nSpain",
         "hours": "Mon-Sat: 10:00 am – 10:00 pm",
         "phone_number": "34 952 24 40 05",
-        "website": "malaga-factory.com"
+        "website": "https://www.malaga-factory.com"
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +261,7 @@
         "address": "Av. Severo Ochoa, s/n, 30100 \nMurcia\nSpain",
         "hours": "Mon-Sun: 10:00 am – 10:00 pm",
         "phone_number": "34 968 81 68 00",
-        "website": "ccmyrtea.com"
+        "website": "https://www.ccmyrtea.com"
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +279,7 @@
         "address": "Rosa Mazón Valero, 7\n03184 Torrevieja, Alicante\nSpain",
         "hours": "Mon-Sun: 10:00 am – 10:00 pm",
         "phone_number": "34 965 71 23 00",
-        "website": "habaneras.es"
+        "website": "https://www.habaneras.es"
       },
       "geometry": {
         "type": "Point",
@@ -297,7 +297,7 @@
         "address": "Carrer de la Bosseria 8-10\nPalma 07001\nSpain",
         "hours": "Mon-Sun: 13:00 – 23:00",
         "phone_number": "34 971 21 40 17",
-        "website": "crustys.com"
+        "website": "https://www.crustys.com"
       },
       "geometry": {
         "type": "Point",
@@ -333,7 +333,7 @@
         "address": "Almirante Arizmendi Kalea, 9\n20302 Irun, Gipuzkoa\nSpain",
         "hours": "Mon-Thu: 8:30 am – 11:30 pm\nFri-Sat: 8:30 am – 12:00 pm\nSun: 10:30 am – 11:30 pm",
         "phone_number": "34 943 63 83 94",
-        "website": "centrocomercialmendibil.com"
+        "website": "https://www.centrocomercialmendibil.com"
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +351,7 @@
         "address": "Plaza de la Legión s/n\n41001 Seville\nSpain",
         "hours": "Mon-Sun: 12:00 pm – 12:30 am",
         "phone_number": "34 954 90 82 82",
-        "website": "\ncentrocomercialplazadearmas.es"
+        "website": "http://www.autobusesplazadearmas.es/"
       },
       "geometry": {
         "type": "Point",
@@ -369,7 +369,7 @@
         "address": "Av. del Arcángel, s/n\n14010 Córdoba\nSpain",
         "hours": "Mon-Sun: 10:00 am – 1:00 am",
         "phone_number": "34 957 75 00 46",
-        "website": "ccelarcangel.com"
+        "website": "https://www.ccelarcangel.com"
       },
       "geometry": {
         "type": "Point",
@@ -387,7 +387,7 @@
         "address": "Ctra. Sevilla-Cádiz\n41703 Dos Hermanas, Sevilla\nSpain",
         "hours": "Mon-Sat: 10:00 am – 10:00 pm",
         "phone_number": "34 954 72 77 72",
-        "website": "sevillafactory.com"
+        "website": "https://www.sevillafactory.com"
       },
       "geometry": {
         "type": "Point",
@@ -405,7 +405,7 @@
         "address": "Av. Juan Carlos I, 44\n50009 Zaragoza\nSpain",
         "hours": "Mon-Sun: 9:30 am – 9:30 pm",
         "phone_number": "34 876 54 16 16",
-        "website": "aragonia.net"
+        "website": "https://www.aragonia.net"
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +495,7 @@
         "address": "Oberinner Str 7\n39054 Oberinn, Bozen\nItaly",
         "hours": "Wed-Mon: 8:00 – 23:00\nTue: Closed",
         "phone_number": "39 0471 602158",
-        "website": "bachmann-ritten.com"
+        "website": "https://www.bachmann-ritten.com"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +531,7 @@
         "address": "Zielstrasse, 5, 39020 Partschins, \nSüdtirol, \nItaly",
         "hours": "Mon-Fri: 9:00 am – 1:00 pm\nSat-Sun: 9:00 am – 2:00 pm",
         "phone_number": "39 0473 491881",
-        "website": "spotti.eu"
+        "website": "https://www.spotti.eu"
       },
       "geometry": {
         "type": "Point",
@@ -549,7 +549,7 @@
         "address": "Via del Macello, 5\n39100 Bolzano BZ\nItaly",
         "hours": "Mon-Fri: 8:00 am – 12:00 pm, 13:30 pm – 6:00 pm\nSat-Sun: Closed",
         "phone_number": "39 0471 052485",
-        "website": "pollockart.it"
+        "website": "https://www.pollockart.it"
       },
       "geometry": {
         "type": "Point",
@@ -567,7 +567,7 @@
         "address": "Andreas-Hofer-St 30\n39100 Bozen\nItaly",
         "hours": "Mon-Sun: 11:00 – 1:00 pm",
         "phone_number": "39 0471 050950",
-        "website": "batzen.it"
+        "website": "https://www.batzen.it"
       },
       "geometry": {
         "type": "Point",
@@ -585,7 +585,7 @@
         "address": "Unterrainer Straße, 74 B, \n39057 Appiano sulla strada del vino BZ, \nItaly",
         "hours": "Mon-Sun: 7:30 am – 8:00 pm",
         "phone_number": "39 0471 188 8164",
-        "website": "golfandcountry.it"
+        "website": "https://www.golfandcountry.it"
       },
       "geometry": {
         "type": "Point",
@@ -603,7 +603,7 @@
         "address": "Via Merano, 16\nMilan, 20127\nItaly",
         "hours": "Mon-Fri: 9:00 am - 6:00 pm\nSometimes opened after 6:00 pm and on weekends",
         "phone_number": "39 02 8294 2387",
-        "website": "milano-merano.talentgarden.org"
+        "website": "https://www.milano-merano.talentgarden.org"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +621,7 @@
         "address": "Via Arcivescovo Calabiana, 6\nMilano, 20139\nItaly",
         "hours": "Mon-Fri: 9:00 am - 6:00 pm\nSat-Sun: call, might be open",
         "phone_number": "39 02 8294 2387",
-        "website": "talentgarden.org"
+        "website": "https://www.talentgarden.org"
       },
       "geometry": {
         "type": "Point",
@@ -657,7 +657,7 @@
         "address": "Skandinávská 2\nBrno, 619 00\nCzech Republic",
         "hours": "Mon-Sun: 9:00 am – 8:00 pm",
         "phone_number": "420 543 539 905",
-        "website": "brno.avion.cz"
+        "website": "https://www.brno.avion.cz"
       },
       "geometry": {
         "type": "Point",
@@ -675,7 +675,7 @@
         "address": "Nádražní 681/2a\n602 00 Brno\nCzech Republic",
         "hours": "Mon-Sun: 6:00 – 24:00",
         "phone_number": "420 777 771 473",
-        "website": "ocletmo.cz"
+        "website": "https://www.ocletmo.cz"
       },
       "geometry": {
         "type": "Point",
@@ -693,7 +693,7 @@
         "address": "Dornych 4\n658 00 Brno-střed\nCzech Republic",
         "hours": "Mon-Sat: 6:00 – 21:00\nSun: 8:00 – 20:00",
         "phone_number": "420 541 122 243",
-        "website": "itesco.cz"
+        "website": "https://www.itesco.cz"
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +711,7 @@
         "address": "nám. Svobody 702/9\nBrno, 602 00\nCzech Republic",
         "hours": "Mon-Sat: 7:00 – 24:00\nSun: 8:00 – 24:00",
         "phone_number": "420 542 211 783",
-        "website": "omegawatches.com"
+        "website": "https://www.omegawatches.com"
       },
       "geometry": {
         "type": "Point",
@@ -729,7 +729,7 @@
         "address": "Pražská tř. 1247/24\n370 04 České Budějovice\nCzech Republic",
         "hours": "Mon-Sun: 9:00 – 21:00",
         "phone_number": "420 389 015 004",
-        "website": "igycentrum.cz"
+        "website": "https://www.igycentrum.cz"
       },
       "geometry": {
         "type": "Point",
@@ -747,7 +747,7 @@
         "address": "Farského 4732\nChomutov, 430 01\nCzech Republic",
         "hours": "Mon-Sun: 7:00 am – 9:00 pm",
         "phone_number": "420 474 651 027",
-        "website": "chomutovka.cz"
+        "website": "https://www.chomutovka.cz"
       },
       "geometry": {
         "type": "Point",
@@ -765,7 +765,7 @@
         "address": "Folmava 73\nČeská Kubice 34532\nCzech Republic",
         "hours": "Mon-Sun: 8:00 am – 9:00 pm",
         "phone_number": "420 377 449 280",
-        "website": "shoppingparkfolmava.eu"
+        "website": "https://www.shoppingparkfolmava.eu"
       },
       "geometry": {
         "type": "Point",
@@ -783,7 +783,7 @@
         "address": "České mládeže 456, \n463 03 Liberec, \nCzech Repblic",
         "hours": "Mon-Sun: 9:00 am – 9:00 pm",
         "phone_number": "420 481 444 123",
-        "website": "nisaliberec.cz"
+        "website": "https://www.nisaliberec.cz"
       },
       "geometry": {
         "type": "Point",
@@ -801,7 +801,7 @@
         "address": "nám. Soukenné 669/2a, \n460 01 Liberec, \nCzech Republic",
         "hours": "Mon-Sat: 6:00 am – 9:30 pm\nSun: 7:00 am – 9:30 pm",
         "phone_number": "420 485 343 040",
-        "website": "forumliberec.cz"
+        "website": "https://www.forumliberec.cz"
       },
       "geometry": {
         "type": "Point",
@@ -819,7 +819,7 @@
         "address": "Koželužská 945/31\n779 00 Olomouc\nCzech Republic",
         "hours": "Mon-Fri: 8:30 – 17:30",
         "phone_number": "420 724 784 117",
-        "website": "vault42.cz"
+        "website": "https://www.vault42.cz"
       },
       "geometry": {
         "type": "Point",
@@ -837,7 +837,7 @@
         "address": "Polská 1\n779 00 Olomouc\nCzech Republic",
         "hours": "Mon-Sun: 7:00 – 22:00",
         "phone_number": "420 588 883 902",
-        "website": "galeriesantovka.cz"
+        "website": "https://www.galeriesantovka.cz"
       },
       "geometry": {
         "type": "Point",
@@ -855,7 +855,7 @@
         "address": "Sjízdná 5554/2a\n722 00 Ostrava-Třebovice\nCzech Republic",
         "hours": "Mon-Sun: 6:00 – 24:00",
         "phone_number": "420 596 651 948",
-        "website": "itesco.cz"
+        "website": "https://www.itesco.cz"
       },
       "geometry": {
         "type": "Point",
@@ -873,7 +873,7 @@
         "address": "Reální 338/6\nOstrava, 702 00\nCzech Republic",
         "hours": "Mon-Fri: 9:00 am – 2:00 pm, 2:30 pm – 5:30 pm",
         "phone_number": "420 602 218 142",
-        "website": "adafinance.cz"
+        "website": "https://www.adafinance.cz"
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +891,7 @@
         "address": "Rudná 114\nOstrava - Zábřeh, 700 30\nCzech Republic",
         "hours": "Mon-Sun: 9:00 am – 9:00 pm",
         "phone_number": "420 597 434 900",
-        "website": "ostrava.avion.cz"
+        "website": "https://www.ostrava.avion.cz"
       },
       "geometry": {
         "type": "Point",
@@ -909,7 +909,7 @@
         "address": "Janáčkova 3277/22 A\n702 00 Ostrava - Moravská Ostrava\nCzech Republic",
         "hours": "Mon-Fri: 9:00 – 18:00\nSat-Sun: Closed",
         "phone_number": "420 724 782 298",
-        "website": "homeinterier.cz"
+        "website": "https://www.homeinterier.cz"
       },
       "geometry": {
         "type": "Point",
@@ -927,7 +927,7 @@
         "address": "Masarykovo nám. 2799\n530 02 Pardubice\nCzech Republic",
         "hours": "Mon-Sat: 9:00 – 21:00\nSun: 10:00 – 21:00",
         "phone_number": "420 469 800 111",
-        "website": "palacpardubice.cz"
+        "website": "https://www.palacpardubice.cz"
       },
       "geometry": {
         "type": "Point",
@@ -945,7 +945,7 @@
         "address": "Jugoslávská 236/13\n120 00 Vinohrady\nCzech Republic",
         "hours": "Mon-Sat: 8:00 – 23:45\nSun: 10:00 – 22:00",
         "phone_number": "420 777 636 544",
-        "website": "superiorinvestments.cz"
+        "website": "https://www.superiorinvestments.cz"
       },
       "geometry": {
         "type": "Point",
@@ -963,7 +963,7 @@
         "address": "Jateční 1530/33\n170 00 Praha 7-Holešovice\nCzech Republic",
         "hours": "Open 24/7",
         "phone_number": "420 225 340 111",
-        "website": "alza.cz"
+        "website": "https://www.alza.cz"
       },
       "geometry": {
         "type": "Point",
@@ -981,7 +981,7 @@
         "address": "Na příkopě 22\nPraha 1, 110 00\nCzech Republic",
         "hours": "Mon-Sun: 10:00 – 20:00",
         "phone_number": "420 221 451 380",
-        "website": "slovanskydum.cz"
+        "website": "https://www.slovanskydum.cz"
       },
       "geometry": {
         "type": "Point",
@@ -999,7 +999,7 @@
         "address": "Plzeňská 8\nPraha 5, 150 00\nCzech Republic",
         "hours": "Mon-Sun: 7:00 am – 12:00 am",
         "phone_number": "420 251 101 061",
-        "website": "novy-smichov.klepierre.cz"
+        "website": "https://www.novy-smichov.klepierre.cz"
       },
       "geometry": {
         "type": "Point",
@@ -1017,7 +1017,7 @@
         "address": "Na Pankráci 86\nPraha 4, 140 00\nCzech Republic",
         "hours": "Mon-Sun: 9:00 am – 9:00 pm",
         "phone_number": "420 225 111 100",
-        "website": "arkady-pankrac.cz"
+        "website": "https://www.arkady-pankrac.cz"
       },
       "geometry": {
         "type": "Point",
@@ -1035,7 +1035,7 @@
         "address": "Dělnická 43\n170 00 Praha 7\nCzech Republic",
         "hours": "Mon-Fri: 8:00 am – 8:00 pm\nSat-Sun: 12:00 pm – 6:00 pm",
         "phone_number": "420 608 088 822",
-        "website": "paralelnipolis.cz"
+        "website": "https://www.paralelnipolis.cz"
       },
       "geometry": {
         "type": "Point",
@@ -1053,7 +1053,7 @@
         "address": "Řevnická 121/1\n155 21 Praha\nCzech Republic",
         "hours": "Mon-Sun: 9:00 – 21:00",
         "phone_number": "420 226 081 540",
-        "website": "metropole.cz"
+        "website": "https://www.metropole.cz"
       },
       "geometry": {
         "type": "Point",
@@ -1071,7 +1071,7 @@
         "address": "Ostrčilovo nám. 462/4\n128 00 Praha 2-Nusle\nCzech Republic",
         "hours": "Open 24/7",
         "phone_number": "420 261 214 812",
-        "website": "hotelunion.cz"
+        "website": "https://www.hotelunion.cz"
       },
       "geometry": {
         "type": "Point",
@@ -1143,7 +1143,7 @@
         "address": "Dragounska\r\nCheb, 350 02\r\nCzech Republic",
         "hours": "Mon-Sun: 7:00 am – 9:00 pm",
         "phone_number": "+420 733 145 778",
-        "website": "http://dragouncheb.cz/"
+        "website": "http://www.dragouncheb.cz/"
       },
       "geometry": {
         "type": "Point",
@@ -1323,7 +1323,7 @@
         "address": "Thámova 11\r\n180 00 Praha 8 - Karlín\r\nCzech Republic",
         "hours": "Mon-Fri: 7:00 am – 8:00 pm",
         "phone_number": "+420 739 542 307",
-        "website": "https://relay.cz/relay/inmedio/"
+        "website": "https://www.relay.cz/relay/inmedio/"
       },
       "geometry": {
         "type": "Point",
@@ -1341,7 +1341,7 @@
         "address": "nám. Republiky 656/8\n110 00 Staré Město\nCzechia",
         "hours": "Mon-Sun: 11:00 – 22:00",
         "phone_number": "+420 722 445 474",
-        "website": "http://t-anker.cz/cs/novinky/"
+        "website": "http://www.t-anker.cz/cs/novinky/"
       },
       "geometry": {
         "type": "Point",
@@ -1359,7 +1359,7 @@
         "address": "Wilsonova 300/8\r\nPrague 2\r\nCzech Republic",
         "hours": "Mon-Sun: 6:00 am – 11:00 pm",
         "phone_number": "+420 225 852 048",
-        "website": "https://services.generalbytes.com/cs/"
+        "website": "https://www.services.generalbytes.com/cs/"
       },
       "geometry": {
         "type": "Point",
@@ -1377,7 +1377,7 @@
         "address": "Rokycanská 1385/130\r\n312 00 Plzeň\r\nCzech Republic",
         "hours": "Mon-Sun: 6:00 am – 12:00 pm",
         "phone_number": "+420 377 816 111",
-        "website": "http://itesco.cz/prodejny"
+        "website": "http://www.itesco.cz/prodejny"
       },
       "geometry": {
         "type": "Point",
@@ -1593,7 +1593,7 @@
         "address": "9-11 Pudding Lane\r\nMaidstone, ME14 1LN\r\nUK",
         "hours": "Mon-Sat: 7:00 am – 12:00 am\r\nSun: 9:00 am – 11:00 pm",
         "phone_number": "+44 1622 298188",
-        "website": "https://letsco-supermarket.business.site/"
+        "website": "https://www.letsco-supermarket.business.site/"
       },
       "geometry": {
         "type": "Point",
@@ -1755,7 +1755,7 @@
         "address": "43 Formans Rd\r\nBirmingham, B11 3AA\r\nUK",
         "hours": "Open 24/7",
         "phone_number": "-",
-        "website": "https://coinatmradar.com/bitcoin_atm/5969/bitcoin-atm-shitcoins-club-birmingham-uk-bitcoin-embassy/"
+        "website": "https://www.coinatmradar.com/bitcoin_atm/5969/bitcoin-atm-shitcoins-club-birmingham-uk-bitcoin-embassy/"
       },
       "geometry": {
         "type": "Point",
@@ -1845,7 +1845,7 @@
         "address": "297 Chester Rd\r\nManchester, M15 4EY\r\nUK",
         "hours": "Mon-Sat: 9:00 am – 8:00 pm\r\nSun: 11:00 am – 5:00 pm",
         "phone_number": "+44 161 848 7137",
-        "website": "https://realimagefactory.com/"
+        "website": "https://www.realimagefactory.com/"
       },
       "geometry": {
         "type": "Point",
@@ -1935,7 +1935,7 @@
         "address": "94 Grosvenor St\r\nManchester, M1 7HL\r\nUnited Kingdom",
         "hours": "Mon-Sun: 12:00 pm – 12:00 am",
         "phone_number": "+44 20 3026 6037",
-        "website": "https://satoshipoint.io/"
+        "website": "https://www.satoshipoint.io/"
       },
       "geometry": {
         "type": "Point",
@@ -1953,7 +1953,7 @@
         "address": "Great Charlotte Street\r\nLiverpool, L1 1QR\r\nUK",
         "hours": "Mon-Sat: 8:15 – 19:00\r\nSun: 10:00 – 17:00",
         "phone_number": "+44 151 709 4560",
-        "website": "https://claytonsquare.co.uk/"
+        "website": "https://www.claytonsquare.co.uk/"
       },
       "geometry": {
         "type": "Point",
@@ -1971,7 +1971,7 @@
         "address": "New Street\r\nBurton on Trent, DE14 3TN\r\nUnited Kingdom",
         "hours": "Mon-Sat: 9:00 am – 5:30 pm\r\nSun: 10:00 am – 4:30 pm",
         "phone_number": "+44 1283 515000",
-        "website": "http://theoctagoncentre.co.uk/"
+        "website": "http://www.theoctagoncentre.co.uk/"
       },
       "geometry": {
         "type": "Point",
@@ -2043,7 +2043,7 @@
         "address": "The Parade, 10-11 St Albans Rd E\r\nHatfield, AL10 0ET\r\nUK",
         "hours": "Mon-Sat: 6:00 am – 9:00 pm\r\nSun: 7:00 am – 8:00 pm",
         "phone_number": "+44 1707 267869",
-        "website": "https://dils-news.business.site/"
+        "website": "https://www.dils-news.business.site/"
       },
       "geometry": {
         "type": "Point",
@@ -2061,7 +2061,7 @@
         "address": "11 High Road\r\nWood Green, London N22 6BH\r\nUK",
         "hours": "Mon-Sun: 9:30 am – 11:00 pm",
         "phone_number": "+44 20 8881 6234",
-        "website": "http://kodakexpresswoodgreen.co.uk/"
+        "website": "http://www.kodakexpresswoodgreen.co.uk/"
       },
       "geometry": {
         "type": "Point",
@@ -2079,7 +2079,7 @@
         "address": "262 Seven Sisters Road\r\nLondon, N4 2HY\r\nUK",
         "hours": "Mon-Sat: 9:00 am – 8:00 pm\r\nSun: 10:00 am – 7:00 pm",
         "phone_number": "+44 20 7561 0009",
-        "website": "http://fone-us.com/"
+        "website": "http://www.fone-us.com/"
       },
       "geometry": {
         "type": "Point",
@@ -2151,7 +2151,7 @@
         "address": "12a Woodford Rd\nWatford, WD17 1PA\nUK",
         "hours": "Mon-Fri: 6:30 am – 10:00 pm\r\nSat: 7:30 am – 10:00 pm\r\nSun: 10:00 am – 8:00 pm",
         "phone_number": "+44 1923 221959",
-        "website": "https://premier-news-food-wine.business.site/"
+        "website": "https://www.premier-news-food-wine.business.site/"
       },
       "geometry": {
         "type": "Point",
@@ -2457,7 +2457,7 @@
         "address": "16 Broadway\r\nLondon, W13 0SR\r\nUnited Kingdom",
         "hours": "Mon-Fri: 10:00 am – 6:00 pm\r\nSat: 10:00 am – 5:00 pm\r\nSun: Closed",
         "phone_number": "+44 20 8840 6420",
-        "website": "http://ealingexchange.co.uk/"
+        "website": "http://www.ealingexchange.co.uk/"
       },
       "geometry": {
         "type": "Point",
@@ -2475,7 +2475,7 @@
         "address": "51A Fulham Broadway\r\nFulham, SW6 1AE\r\nUnited Kingdom",
         "hours": "Open 24/7",
         "phone_number": "+44 20 3026 6037",
-        "website": "https://satoshipoint.io/"
+        "website": "https://www.satoshipoint.io/"
       },
       "geometry": {
         "type": "Point",
@@ -2511,7 +2511,7 @@
         "address": "32 Tottenham St\r\nLondon, W1T 4RL\r\nUK",
         "hours": "Mon-Sat: 9:00 am – 7:00 pm\r\nSun: 10:30 am – 5:00 pm",
         "phone_number": "+44 20 7101 3201",
-        "website": "https://lkcomputers.com/"
+        "website": "https://www.lkcomputers.com/"
       },
       "geometry": {
         "type": "Point",
@@ -2529,7 +2529,7 @@
         "address": "1 Brady St\r\nLondon, E15DG\r\nUK",
         "hours": "Mon-Sat: 10:00 – 18:00\r\nSun: Closed",
         "phone_number": "+44 20 7092 9184",
-        "website": "https://beta.companieshouse.gov.uk/company/09404207"
+        "website": "https://www.beta.companieshouse.gov.uk/company/09404207"
       },
       "geometry": {
         "type": "Point",
@@ -2547,7 +2547,7 @@
         "address": "262 Commercial Way\r\nLondon, SE15 1PU\r\nUK",
         "hours": "Mon-Sat: 10:00 am – 18:00 pm\r\nSun: Closed",
         "phone_number": "+44 7985 218357",
-        "website": "https://glocurrency.com/"
+        "website": "https://www.glocurrency.com/"
       },
       "geometry": {
         "type": "Point",
@@ -2583,7 +2583,7 @@
         "address": "34 Bruton Pl\r\nMayfair, W1J 6RN\r\nUK",
         "hours": "Mon-Sat: 10:00 am – 6:00 pm",
         "phone_number": "+44 20 7495 8572",
-        "website": "https://sirinlabs.com/"
+        "website": "https://www.sirinlabs.com/"
       },
       "geometry": {
         "type": "Point",
@@ -2619,7 +2619,7 @@
         "address": "89 Wilton Rd\r\nPimlico, London, SW1V 1DN\r\nUnited Kingdom",
         "hours": "Mon-Fri: 9:00 am – 6:00 pm\r\nSat-Sun: 9:00 am – 3:30 pm",
         "phone_number": "+44 20 7821 9996",
-        "website": "http://apartmentsoflondon.co.uk/"
+        "website": "http://www.apartmentsoflondon.co.uk/"
       },
       "geometry": {
         "type": "Point",
@@ -2655,7 +2655,7 @@
         "address": "Unit 431, Camden Stables Market Chalk Farm Road\r\nLondon,Camden NW1 8AH\r\nUnited Kingdom",
         "hours": "Mon-Fri: 12:00 – 5:30 pm\r\nSat-Sun: 11:00 am – 7:00 pm",
         "phone_number": "+44 20 7267 9437",
-        "website": "http://mr-snappys.com/"
+        "website": "http://www.mr-snappys.com/"
       },
       "geometry": {
         "type": "Point",
@@ -2853,7 +2853,7 @@
         "address": "New Kent Road Unit 240\r\nLondon, SE1 6TE\r\nUK",
         "hours": "Mon-Sat: 7:00 am – 12:00 pm\r\nSun: 9:00 am – 12:00 pm",
         "phone_number": "+44 20 7708 6170",
-        "website": "http://elephantandcastleshopping.com/"
+        "website": "http://www.elephantandcastleshopping.com/"
       },
       "geometry": {
         "type": "Point",
@@ -2925,7 +2925,7 @@
         "address": "30 Notting Hill Gate\r\nLondon, W11 3HX\r\nUK",
         "hours": "Mon-Sat: 8:30 am – 9:30 pm\r\nSun: 9:00 am – 9:00 pm",
         "phone_number": "+44 20 8525 9445",
-        "website": "https://unlockedandlinked.co.uk/"
+        "website": "https://www.unlockedandlinked.co.uk/"
       },
       "geometry": {
         "type": "Point",
@@ -2943,7 +2943,7 @@
         "address": "153 Edware Road\nLondon, W2 2HR\nUK",
         "hours": "Mon-Sun: 10:00 am – 6:00 pm",
         "phone_number": "+44 20 7262 2992",
-        "website": "https://beta.companieshouse.gov.uk/company/06588496"
+        "website": "https://www.beta.companieshouse.gov.uk/company/06588496"
       },
       "geometry": {
         "type": "Point",
@@ -3069,7 +3069,7 @@
         "address": "122-124 Mare St\r\nLondon, E8 3SG\r\nUK",
         "hours": "Open 24/7",
         "phone_number": "+44 20 3974 2646",
-        "website": "https://uk.getcoins.com/"
+        "website": "https://www.uk.getcoins.com/"
       },
       "geometry": {
         "type": "Point",
@@ -3123,7 +3123,7 @@
         "address": "49 Ripple Road\r\nBarking, IG11 7NT\r\nUnited Kingdom",
         "hours": "Mon-Sat: 10:00 am – 10:00 pm\r\nSun: 10:00 am – 8:00 pm",
         "phone_number": "+44 20 3866 8968",
-        "website": "https://coinatmradar.com/bitcoin_atm/1443/bitcoin-atm-general-bytes-barking-trendz-barbershop/"
+        "website": "https://www.coinatmradar.com/bitcoin_atm/1443/bitcoin-atm-general-bytes-barking-trendz-barbershop/"
       },
       "geometry": {
         "type": "Point",
@@ -3141,7 +3141,7 @@
         "address": "117 Wembley Park Drive\r\nWembley, HA9 8HG\r\nUnited Kingdom",
         "hours": "Mon-Sun: 7:00 am – 2:00 am",
         "phone_number": "+44 20 3866 8968",
-        "website": "https://coinatmradar.com/"
+        "website": "https://www.coinatmradar.com/"
       },
       "geometry": {
         "type": "Point",
@@ -3159,7 +3159,7 @@
         "address": "393-395 Lordship Lane\r\nEast Dulwich\r\nLondon, SE22 8JN\r\nUK",
         "hours": "Mon-Sun: 6:30 am – 2:00 am",
         "phone_number": "+44 20 3866 8968",
-        "website": "https://coinatmradar.com/"
+        "website": "https://www.coinatmradar.com/"
       },
       "geometry": {
         "type": "Point",
@@ -3195,7 +3195,7 @@
         "address": "137 Edware Road\nLondon, W2 2HR\nUK",
         "hours": "Mon-Sun: 10:00 am – 6:00 pm",
         "phone_number": "+44 20 7402 0344",
-        "website": "http://basicconnectionsltd.com/pb/wp_2bd843c6/wp_2bd843c6.html"
+        "website": "http://www.basicconnectionsltd.com/pb/wp_2bd843c6/wp_2bd843c6.html"
       },
       "geometry": {
         "type": "Point",
@@ -3267,7 +3267,7 @@
         "address": "21 St James's St\r\nBrighton, BN2 1RF\r\nUnited Kingdom",
         "hours": "Mon-Wed: 12:00 am – 6:00 pm\r\nThu-Sat: 12:00 am – 9:00 pm\r\nSun: 12:00 am – 5:00 pm",
         "phone_number": "+44 123 456 7890",
-        "website": "https://socialboardbrighton.com/"
+        "website": "https://www.socialboardbrighton.com/"
       },
       "geometry": {
         "type": "Point",
@@ -3285,7 +3285,7 @@
         "address": "46 West St\r\nBrighton BN1 1RR\r\nUK",
         "hours": "Sun-Wed: 12:00 pm – 9:00 pm\r\nThu-Sat: 12:00 pm – 12:00 am",
         "phone_number": "+44 1273 253570",
-        "website": "https://befries.com/"
+        "website": "https://www.befries.com/"
       },
       "geometry": {
         "type": "Point",
@@ -3429,7 +3429,7 @@
         "address": "3 St Kilda's Rd\r\nHarrow HA1 1QD\r\nUK",
         "hours": "Mon-Sat: 10:00 am - 8:00 pm\r\nSun: 12:00 pm - 5:00 pm",
         "phone_number": "+44 7533 492657",
-        "website": "https://newimage-hairsalon.business.site/"
+        "website": "https://www.newimage-hairsalon.business.site/"
       },
       "geometry": {
         "type": "Point",
@@ -3681,7 +3681,7 @@
         "address": "Gottschallinger Straße 88\r\nLinz, 4030\r\nAustria",
         "hours": "Tue-Sat: 13:00 – 19:00",
         "phone_number": "+43 50 332 255",
-        "website": "http://basefield.at/"
+        "website": "http://www.basefield.at/"
       },
       "geometry": {
         "type": "Point",
@@ -3717,7 +3717,7 @@
         "address": "Schönbrunner Allee 18\r\n2331, Vösendorf\r\nAustria",
         "hours": "Mon-Thu: 8:00 – 12:00, 13:00 – 17:00\r\nFri: 8:00 – 12:00, 12:30 – 15:00",
         "phone_number": "+43 1 6985360",
-        "website": "http://vital-cars.at/"
+        "website": "http://www.vital-cars.at/"
       },
       "geometry": {
         "type": "Point",
@@ -3825,7 +3825,7 @@
         "address": "Passauerstraße 47/23\r\nSchärding, 4870\r\nAustria",
         "hours": "Mon-Thu: 9:00 – 17:00\r\nFri: 9:00 – 14:00\r\nSat-Sun: Closed",
         "phone_number": "+43 7712 40052",
-        "website": "https://sjd-finanz.at/"
+        "website": "https://www.sjd-finanz.at/"
       },
       "geometry": {
         "type": "Point",
@@ -3879,7 +3879,7 @@
         "address": "Innrain 15\r\nInnsbruck, 6010\r\nAustria",
         "hours": "Open 24/7",
         "phone_number": "+43 512 594760",
-        "website": "http://redaktionssystem.com/hotelneuepost/en/"
+        "website": "http://www.redaktionssystem.com/hotelneuepost/en/"
       },
       "geometry": {
         "type": "Point",
@@ -3897,7 +3897,7 @@
         "address": "Europabrücke 2\r\nSchönberg im Stubaital, 6141\r\nAustria",
         "hours": "Open 24/7",
         "phone_number": "+43 5225 62579",
-        "website": "https://find.shell.com/at/fuel/10022855"
+        "website": "https://www.find.shell.com/at/fuel/10022855"
       },
       "geometry": {
         "type": "Point",
@@ -3951,7 +3951,7 @@
         "address": "Werkstätte Wattens\r\nWattens\r\nAustria",
         "hours": "Mon-Fri: 9:00 am – 7:00 pm\r\nSat-Sun: Closed",
         "phone_number": "+43 (0)720 22 92 92",
-        "website": "https://brokerbulls.com/"
+        "website": "https://www.brokerbulls.com/"
       },
       "geometry": {
         "type": "Point",
@@ -4275,7 +4275,7 @@
         "address": "Brennerautobahn 3\nSchönberg, 6141\nAustria",
         "hours": "Open 24/7",
         "phone_number": "+436644432166",
-        "website": "https://find.shell.com/at/fuel/10022854-schoenberg"
+        "website": "https://www.find.shell.com/at/fuel/10022854-schoenberg"
       },
       "geometry": {
         "type": "Point",
@@ -4365,7 +4365,7 @@
         "address": "Loco 10\r\nEgg, 6863\r\nAustria",
         "hours": "Mon-Fri: 9:00 am – 6:00 pm",
         "phone_number": "+43 676 3651446",
-        "website": "https://waelder.computer/"
+        "website": "https://www.waelder.computer/"
       },
       "geometry": {
         "type": "Point",
@@ -4455,7 +4455,7 @@
         "address": "Lustenauerstrasse 86\r\nDornbirn, 6850\r\nAustria",
         "hours": "Open 24/7",
         "phone_number": "+43 5572 21157",
-        "website": "https://find.shell.com/at/fuel/10022868-dornbirn-lustenauerstrasse"
+        "website": "https://www.find.shell.com/at/fuel/10022868-dornbirn-lustenauerstrasse"
       },
       "geometry": {
         "type": "Point",
@@ -5175,7 +5175,7 @@
         "address": "Josefstädter Straße 66\r\n1080 Wien\r\nAustria",
         "hours": "Mon-Fri: 7:00 – 23:30\r\nSat-Sun: 8:00 – 23:30",
         "phone_number": "+43 1 4055314",
-        "website": "http://cafehummel.at/"
+        "website": "http://www.cafehummel.at/"
       },
       "geometry": {
         "type": "Point",
@@ -5229,7 +5229,7 @@
         "address": "Gottschallinger Straße 88\r\nLinz, 4030\r\nAustria",
         "hours": "Tue-Sat: 13:00 – 19:00",
         "phone_number": "+4369917073486",
-        "website": "http://basefield.at/"
+        "website": "http://www.basefield.at/"
       },
       "geometry": {
         "type": "Point",
@@ -5355,7 +5355,7 @@
         "address": "Margaretha-Eder-Straße 20\r\n4523 Sierning\r\nAustria",
         "hours": "Mon-Fri: 6:00 – 22:00\r\nSat-Sun: 7:00 – 22:00",
         "phone_number": "+43 7259 3226912",
-        "website": "https://pink-neuzeug.stadtausstellung.at/cafe-restaurant/speisekarte/"
+        "website": "https://www.pink-neuzeug.stadtausstellung.at/cafe-restaurant/speisekarte/"
       },
       "geometry": {
         "type": "Point",
@@ -5481,7 +5481,7 @@
         "address": "Maxglaner Hauptstrasse 11\r\nSalzburg, 5020\r\nAustria",
         "hours": "Mon-Fri: 8:00 – 18:30",
         "phone_number": "+436648405121",
-        "website": "https://thesocialist.rocks/"
+        "website": "https://www.thesocialist.rocks/"
       },
       "geometry": {
         "type": "Point",
@@ -5751,7 +5751,7 @@
         "address": "Schemerlhöhe 5\r\nNestelbach bei Graz, 8301\r\nAustria",
         "hours": "Open 24/7",
         "phone_number": "+43 3133 3258",
-        "website": "https://find.shell.com/at/fuel/10022913-lassnitzhoehe-schemerlhoehe"
+        "website": "https://www.find.shell.com/at/fuel/10022913-lassnitzhoehe-schemerlhoehe"
       },
       "geometry": {
         "type": "Point",
@@ -5841,7 +5841,7 @@
         "address": "Michaeligasse 12\r\nHartberg, 8230\r\nAustria",
         "hours": "Mon-Sat: 10:00 – 23:00\r\nSun: 11:00 – 23:00",
         "phone_number": "+43333262306",
-        "website": "http://hartberg.pizzeriadavid.at/"
+        "website": "http://www.hartberg.pizzeriadavid.at/"
       },
       "geometry": {
         "type": "Point",
@@ -5949,7 +5949,7 @@
         "address": "c./S´Estepar 25\r\n7560 Cala Millor\r\nSpain",
         "hours": "Mon-Sat: 10:00 am – 2:00 pm\r\nTue-Fri: 10:00 am – 6:00 pm",
         "phone_number": "+34 971 58 73 20",
-        "website": "https://el-templo-del-cabello.business.site/?m=true"
+        "website": "https://www.el-templo-del-cabello.business.site/?m=true"
       },
       "geometry": {
         "type": "Point",
@@ -5967,7 +5967,7 @@
         "address": "Avinguda Parc 54\r\n07500 Manacor - Illes Balears\r\nMallorca",
         "hours": "Mon-Sun: 11:00 am – 20:00 pm",
         "phone_number": "+34 971818082",
-        "website": "http://snackaway.eu/"
+        "website": "http://www.snackaway.eu/"
       },
       "geometry": {
         "type": "Point",
@@ -6003,7 +6003,7 @@
         "address": "Carrer de la Missió de San Diego, 1\r\nPlaya de Palma, 07600, Illes Balears\r\nSpain",
         "hours": "Mon-Sun: 9:00 – 24:00",
         "phone_number": "+34 971 74 56 90",
-        "website": "https://chaletsiena.com/"
+        "website": "https://www.chaletsiena.com/"
       },
       "geometry": {
         "type": "Point",
@@ -6021,7 +6021,7 @@
         "address": "Calle Marbella 20\r\nLocal 65, 7610\r\nPlaya de Palma\r\nSpain",
         "hours": "Mon-Sun: 9:00 am – 10:00 pm",
         "phone_number": "+34 727 76 65 14",
-        "website": "https://bikeking-mallorca.es/"
+        "website": "https://www.bikeking-mallorca.es/"
       },
       "geometry": {
         "type": "Point",
@@ -6237,7 +6237,7 @@
         "address": "Avinguda de Rio de Janeiro, 42\r\n08016 Barcelona\r\nSpain",
         "hours": "Open 24/7",
         "phone_number": "+34 932 76 50 70",
-        "website": "https://sommultiespai.com/"
+        "website": "https://www.sommultiespai.com/"
       },
       "geometry": {
         "type": "Point",
@@ -6273,7 +6273,7 @@
         "address": "Carrer de Floridablanca 92\r\nBarcelona, 08015\r\nSpain",
         "hours": "Mon-Fri: 9am–9pm\r\nSat-Sun: Closed",
         "phone_number": "+34 616 72 85 66",
-        "website": "http://cahootcoworking.com/"
+        "website": "http://www.cahootcoworking.com/"
       },
       "geometry": {
         "type": "Point",
@@ -6435,7 +6435,7 @@
         "address": "Av. Juan Carlos I, 44\r\n50009 Zaragoza\r\nSpain",
         "hours": "Mon-Sun: 9:30 am – 9:30 pm",
         "phone_number": "+34 876 54 16 16",
-        "website": "http://aragonia.net/"
+        "website": "http://www.aragonia.net/"
       },
       "geometry": {
         "type": "Point",
@@ -6489,7 +6489,7 @@
         "address": "Rua dos Bacalhoeiros 6B\r\n1100-070 Lisboa\r\nPortugal",
         "hours": "Mon-Sun: 11:00 am – 11:00 pm",
         "phone_number": "+351 21 303 2035",
-        "website": "http://cantosaudade.com/"
+        "website": "http://www.cantosaudade.com/"
       },
       "geometry": {
         "type": "Point",
@@ -6525,7 +6525,7 @@
         "address": "Av. João de Deus Ramos nº 146 - Piso 0\r\nCoimbra, 3030-328\r\nPortugal",
         "hours": "Mon-Sat: 8:30 am – 8:30 pm\r\nSun: 8:30 am – 8:00 pm",
         "phone_number": "+351 239 404 542",
-        "website": "https://ccgs.webnode.pt/"
+        "website": "https://www.ccgs.webnode.pt/"
       },
       "geometry": {
         "type": "Point",
@@ -6651,7 +6651,7 @@
         "address": "AlbisriederPlatz 5\r\nZürich, 8004\r\nSwitzerland",
         "hours": "Open 24/7",
         "phone_number": "+41 43 311 12 12",
-        "website": "http://new-points.ch/"
+        "website": "http://www.new-points.ch/"
       },
       "geometry": {
         "type": "Point",
@@ -6669,7 +6669,7 @@
         "address": "Mühlegasse 6\r\nOlten, 4600\r\nSwitzerland",
         "hours": "Mon-Thu: 3:00 pm – 12:00 am\r\nFri: 3:00 pm – 3:00 am\r\nSat: 3:00 pm – 0:00 am\r\nSun: 3:00 pm – 12:00 am",
         "phone_number": "+41 62 212 02 22",
-        "website": "https://hotel-europe.ch/"
+        "website": "https://www.hotel-europe.ch/"
       },
       "geometry": {
         "type": "Point",
@@ -6903,7 +6903,7 @@
         "address": "Brunnenstrasse 1\r\n8610 Uster\r\nSwitzerland",
         "hours": "Mon-Fri: 10:00 am – 1:00 pm, 1:00 pm – 6:00 pm\r\nSat-Sun: Closed",
         "phone_number": "+41 76 211 09 81",
-        "website": "https://bitcoin-embassy.ch/"
+        "website": "https://www.bitcoin-embassy.ch/"
       },
       "geometry": {
         "type": "Point",
@@ -6939,7 +6939,7 @@
         "address": "Maagplatz 1\r\n8005 Zürich\r\nSwitzerland",
         "hours": "Mon-Fri: 7:30 am – 5:30 pm\r\nSat-Sun: Closed",
         "phone_number": "+41 58 286 31 11",
-        "website": "http://ey.com/"
+        "website": "http://www.ey.com/"
       },
       "geometry": {
         "type": "Point",
@@ -6957,7 +6957,7 @@
         "address": "Rue Caroline 5\r\nLausanne, 1003\r\nSwitzerland",
         "hours": "Open 24/7",
         "phone_number": "+41 21 320 21 41",
-        "website": "https://byfassbind.com/"
+        "website": "https://www.byfassbind.com/"
       },
       "geometry": {
         "type": "Point",
@@ -7119,7 +7119,7 @@
         "address": "Dammstrasse 16\r\n6300 Zug\r\nSwitzerland",
         "hours": "Mon-Fri: 8:00 am – 5:00 pm\r\nSat-Sun: Closed",
         "phone_number": "+41 41 725 02 00",
-        "website": "https://cvvc.com/"
+        "website": "https://www.cvvc.com/"
       },
       "geometry": {
         "type": "Point",
@@ -7299,7 +7299,7 @@
         "address": "Chebská 2934\r\n352 01 Aš\r\nCzech Republic",
         "hours": "Mon-Sun: 7:00 – 22:00",
         "phone_number": "+420354674111",
-        "website": "https://itesco.cz/prodejny/"
+        "website": "https://www.itesco.cz/prodejny/"
       },
       "geometry": {
         "type": "Point",
@@ -7371,7 +7371,7 @@
         "address": "Dornych 4\r\n658 00 Brno-střed\r\nCzech republic",
         "hours": "Mon-Sat: 6:00 – 21:00\r\nSun: 8:00 – 20:00",
         "phone_number": "+420 541 122 243",
-        "website": "https://itesco.cz/prodejny/"
+        "website": "https://www.itesco.cz/prodejny/"
       },
       "geometry": {
         "type": "Point",
@@ -7551,7 +7551,7 @@
         "address": "Dragounska\r\nCheb, 350 02\r\nCzech Republic",
         "hours": "Mon-Sun: 7:00 am – 9:00 pm",
         "phone_number": "+420 733 145 778",
-        "website": "http://dragouncheb.cz/"
+        "website": "http://www.dragouncheb.cz/"
       },
       "geometry": {
         "type": "Point",
@@ -7569,7 +7569,7 @@
         "address": "Dukelská třída 1713/7\r\nHradec Králové, 500 02\r\nCzech Republic",
         "hours": "Mon-Fri: 8:00 am – 8:00 pm\r\nSat-Sun: 8:00 am – 6:00 pm",
         "phone_number": "+420 495 582 491",
-        "website": "https://ocatrium.cz/"
+        "website": "https://www.ocatrium.cz/"
       },
       "geometry": {
         "type": "Point",
@@ -7587,7 +7587,7 @@
         "address": "Masarykovo nám. 2799\r\n530 02 Pardubice\r\nCzech republic",
         "hours": "Mon-Sat: 9:00 – 21:00\r\nSun: 10:00 – 21:00",
         "phone_number": "+420 469 800 111",
-        "website": "https://palacpardubice.cz/"
+        "website": "https://www.palacpardubice.cz/"
       },
       "geometry": {
         "type": "Point",
@@ -7659,7 +7659,7 @@
         "address": "Reální 338/6\r\nOstrava, 702 00\r\nCzech Republic",
         "hours": "Mon-Fri: 9:00 am – 2:00 pm, 2:30 pm – 5:30 pm",
         "phone_number": "+420 602 218 142",
-        "website": "http://adafinance.cz/bitcoin-automat-v-ostrave"
+        "website": "http://www.adafinance.cz/bitcoin-automat-v-ostrave"
       },
       "geometry": {
         "type": "Point",
@@ -7677,7 +7677,7 @@
         "address": "Sjízdná 5554/2a\r\n722 00 Ostrava-Třebovice\r\nČeská republika",
         "hours": "Mon-Sun: 6:00 – 24:00",
         "phone_number": "+421 2/623 100 01",
-        "website": "https://bratislava.ocgaleria.sk/"
+        "website": "https://www.bratislava.ocgaleria.sk/"
       },
       "geometry": {
         "type": "Point",
@@ -7749,7 +7749,7 @@
         "address": "Náměstí Republiky 1\nPrague 1\nCzech Republic",
         "hours": "Mon-Wed: 7:00 am – 9:00 pm\r\nSat: 8:00 am – 10:00 pm\r\nSun: 8:00 am – 9:00 pm",
         "phone_number": "+420 739 542 150",
-        "website": "https://relay.cz/relay/"
+        "website": "https://www.relay.cz/relay/"
       },
       "geometry": {
         "type": "Point",
@@ -7767,7 +7767,7 @@
         "address": "Metro Dejvická\nPrague 6\nCzech Republic",
         "hours": "Mon-Fri: 6:00 am – 8:00 pm\r\nSat: 6:00 am – 6:00 pm\r\nSun: 7:00 am – 6:00 pm",
         "phone_number": "+420 225 852 048",
-        "website": "https://services.generalbytes.com/cs/"
+        "website": "https://www.services.generalbytes.com/cs/"
       },
       "geometry": {
         "type": "Point",
@@ -7785,7 +7785,7 @@
         "address": "Spálená 103/41\n100 00 Praha 1\nCzech Republic",
         "hours": "Mon-Fri: 6:00 am – 8:00 pm\r\nSat: 7:00 am – 6:00 pm\r\nSun: 9:00 am – 6:00 pm",
         "phone_number": "+420 739 542 166",
-        "website": "https://relay.cz/relay/"
+        "website": "https://www.relay.cz/relay/"
       },
       "geometry": {
         "type": "Point",
@@ -7803,7 +7803,7 @@
         "address": "Thámova 11\r\n180 00 Praha 8 - Karlín\r\nCzech Republic",
         "hours": "Mon-Fri: 7:00 am – 8:00 pm",
         "phone_number": "+420 739 542 307",
-        "website": "https://relay.cz/relay/inmedio/"
+        "website": "https://www.relay.cz/relay/inmedio/"
       },
       "geometry": {
         "type": "Point",
@@ -7821,7 +7821,7 @@
         "address": "Švehlova 1391/32\r\n102 00 Praha 10\r\nCzech Republic",
         "hours": "Mon-Sun: 9am–9pm",
         "phone_number": "+420 267 184 111",
-        "website": "https://vivo-shopping.com/cs/hostivar"
+        "website": "https://www.vivo-shopping.com/cs/hostivar"
       },
       "geometry": {
         "type": "Point",
@@ -7965,7 +7965,7 @@
         "address": "Leoforos Dimokratias 195\r\nAlexandroupoli, 68100\r\nGreece",
         "hours": "Mon-Fri: 10:00 – 17:00\r\nSat: 10:00 – 15:00\r\nSun: Closed",
         "phone_number": "+30 69 3702 6678",
-        "website": "https://cryptoangels.gr/"
+        "website": "https://www.cryptoangels.gr/"
       },
       "geometry": {
         "type": "Point",
@@ -7983,7 +7983,7 @@
         "address": "Gennimata 61\r\nGlyfada, 16562\r\nGreece",
         "hours": "Mon-Fri: 10:00 – 20:00\r\nSat: 10:00 – 15:00",
         "phone_number": "+306987812000",
-        "website": "https://bcash.eu/"
+        "website": "https://www.bcash.eu/"
       },
       "geometry": {
         "type": "Point",
@@ -8001,7 +8001,7 @@
         "address": "Solomou 22\r\nAgia Paraskeyi, 15341\r\nGreece",
         "hours": "Mon-Sun: 6:00 am – 11:00 pm",
         "phone_number": "+306987812000",
-        "website": "https://bcash.eu/"
+        "website": "https://www.bcash.eu/"
       },
       "geometry": {
         "type": "Point",
@@ -8019,7 +8019,7 @@
         "address": "Dimitrakopoulou 84\r\nAthens (Koukaki)\r\nGreece",
         "hours": "Mon: 10:00 – 17:00\r\nTue: 10:00 – 20:00\r\nWed: 10:00 – 17:00\r\nThu-Fri: 10:00 – 20:00\r\nSat: 10:00 – 15:00\r\nSun: Closed",
         "phone_number": "+30 6998499499",
-        "website": "https://bcash.eu/"
+        "website": "https://www.bcash.eu/"
       },
       "geometry": {
         "type": "Point",
@@ -8037,7 +8037,7 @@
         "address": "Papaflessa 26\r\nGalatsi, 11146\r\nGreece",
         "hours": "Mon-Fri: 9:00 – 17:00",
         "phone_number": "+302102933042",
-        "website": "http://fusionfinance.gr/"
+        "website": "http://www.fusionfinance.gr/"
       },
       "geometry": {
         "type": "Point",
@@ -8145,7 +8145,7 @@
         "address": "Mitropoleos 2\r\nKastoria, 52100\r\nGreece",
         "hours": "Mon: 10:00 am – 3:00 pm\r\nTue: 10:00 am – 8:00 pm\r\nWed: 10:00 am – 3:00 pm\r\nThu-Fri: 10:00 am – 8:00 pm\r\nSat: 10:00 am – 3:00 pm\r\nSun: Closed",
         "phone_number": "+30 694 141 2894",
-        "website": "https://bcash.eu/gr/"
+        "website": "https://www.bcash.eu/gr/"
       },
       "geometry": {
         "type": "Point",
@@ -8199,7 +8199,7 @@
         "address": "28th October 5\nEvosmos, 562 24\nGreece",
         "hours": "Open 24/7",
         "phone_number": "+30 694 141 2894",
-        "website": "https://bcash.eu/"
+        "website": "https://www.bcash.eu/"
       },
       "geometry": {
         "type": "Point",
@@ -8217,7 +8217,7 @@
         "address": "Nikiti\nChalkidiki 63088\nGreece",
         "hours": "Mon-Sun: 9:30 – 14:00, 17:00 – 22:00",
         "phone_number": "+302375022546",
-        "website": "https://11888.paginasamarillas.es/"
+        "website": "https://www.11888.paginasamarillas.es/"
       },
       "geometry": {
         "type": "Point",
@@ -8235,7 +8235,7 @@
         "address": "Iasonos 18\nLarissa, 412 23\nGreece",
         "hours": "Mon-Sat: 10:00 – 17:00",
         "phone_number": "+30 697 560 9542",
-        "website": "https://bitcoinspot.gr/"
+        "website": "https://www.bitcoinspot.gr/"
       },
       "geometry": {
         "type": "Point",
@@ -8307,7 +8307,7 @@
         "address": "Sahtouri 56\nPiraeus, 18537\nGreece",
         "hours": "Open 24/7",
         "phone_number": "+30 698 781 2000",
-        "website": "https://bcash.eu/en/"
+        "website": "https://www.bcash.eu/en/"
       },
       "geometry": {
         "type": "Point",
@@ -8325,7 +8325,7 @@
         "address": "Gennimata 61\r\nGlyfada, 16562\r\nGreece",
         "hours": "Open 24/7",
         "phone_number": "+30 698 781 2000",
-        "website": "https://bcash.eu/en/"
+        "website": "https://www.bcash.eu/en/"
       },
       "geometry": {
         "type": "Point",
@@ -8343,7 +8343,7 @@
         "address": "Aneksartisias 75\r\nIoannina, 45444\r\nGreece",
         "hours": "Open 24/7",
         "phone_number": "+306941412894",
-        "website": "https://bcash.eu/gr/"
+        "website": "https://www.bcash.eu/gr/"
       },
       "geometry": {
         "type": "Point",
@@ -8379,7 +8379,7 @@
         "address": "Nikitara 3\r\nKalamata, 24100\r\nGreece",
         "hours": "Mon: 8:30 am – 14:30 pm\r\nTue: 8:30 am – 14:30 pm, 17:30 pm – 21:00 pm\r\nWed: 8:30 am – 14:30 pm\r\nThu-Fri: 8:30 am – 14:30 pm, 17:30 pm – 21:00 pm\r\nSat: 8:30 am – 14:30 pm\r\nSun: Closed",
         "phone_number": "+306987812000",
-        "website": "https://bcash.eu/"
+        "website": "https://www.bcash.eu/"
       },
       "geometry": {
         "type": "Point",
@@ -8397,7 +8397,7 @@
         "address": "Agiou Andreou 1\r\nPatra, 26223\r\nGreece",
         "hours": "Mon-Fri: 9:00 am – 8:00 pm\r\nSat: 9:00 am – 3:00 pm\r\nSun: Closed",
         "phone_number": "+30 698 781 2000",
-        "website": "https://bcash.eu/gr/"
+        "website": "https://www.bcash.eu/gr/"
       },
       "geometry": {
         "type": "Point",
@@ -8433,7 +8433,7 @@
         "address": "Vrysi\r\nMykonos, 84600\r\nGreece",
         "hours": "Open 24/7",
         "phone_number": "+30 699 849 9499",
-        "website": "https://bcash.eu/gr/"
+        "website": "https://www.bcash.eu/gr/"
       },
       "geometry": {
         "type": "Point",
@@ -8451,7 +8451,7 @@
         "address": "Kalokairinou 64\r\nHeraklion (Crete)\r\nGreece",
         "hours": "Open 24/7",
         "phone_number": "+30 699 849 9499",
-        "website": "https://bcash.eu/"
+        "website": "https://www.bcash.eu/"
       },
       "geometry": {
         "type": "Point",
@@ -8487,7 +8487,7 @@
         "address": "Pribinova 8\r\nBratislava 81109\r\nSlovakia",
         "hours": "Mon-Sun: 7:00 am – 9:00 pm",
         "phone_number": "+421 2 20 915 000",
-        "website": "https://eurovea.sk/"
+        "website": "https://www.eurovea.sk/"
       },
       "geometry": {
         "type": "Point",
@@ -8523,7 +8523,7 @@
         "address": "Cesta na Senec 2\r\n821 04 Bratislava\r\nSlovakia",
         "hours": "Mon-Sun: 6:00 – 22:00",
         "phone_number": "+421 2/494 965 55",
-        "website": "https://tesco.sk/obchody/detail-obchodu/bratislava-zlate-piesky-extra/"
+        "website": "https://www.tesco.sk/obchody/detail-obchodu/bratislava-zlate-piesky-extra/"
       },
       "geometry": {
         "type": "Point",
@@ -8595,7 +8595,7 @@
         "address": "Račianska 9/1503\r\n831 02 Bratislava\r\nSlovensko",
         "hours": "Mon-Sat: 6:00 – 22:00\r\nSun: 7:00 – 21:00",
         "phone_number": "+421 903 483 109",
-        "website": "https://tesco.sk/obchody/detail-obchodu/bratislava-racianska-expres/"
+        "website": "https://www.tesco.sk/obchody/detail-obchodu/bratislava-racianska-expres/"
       },
       "geometry": {
         "type": "Point",
@@ -8739,7 +8739,7 @@
         "address": "Vajnorská 100\r\n831 04 Bratislava\r\nSlovakia",
         "hours": "Mon-Sun: 9:00 am – 21:00 pm",
         "phone_number": "+421 444 412 34",
-        "website": "https://retail.immofinanz.com/sk/polus-city-center"
+        "website": "https://www.retail.immofinanz.com/sk/polus-city-center"
       },
       "geometry": {
         "type": "Point",
@@ -8829,7 +8829,7 @@
         "address": "Námestie svätého Egídia 3290/124\n058 01 Poprad\nSlovensko",
         "hours": "Mon-Sun: 9:00 – 21:00",
         "phone_number": "+421 52/285 01 10",
-        "website": "https://forumpoprad.sk/"
+        "website": "https://www.forumpoprad.sk/"
       },
       "geometry": {
         "type": "Point",
@@ -8883,7 +8883,7 @@
         "address": "Andreja Sládkoviča 6110/5\r\n071 01 Michalovce\r\nSlovensko",
         "hours": "Mon-Sun: 9:00 – 21:00",
         "phone_number": "+421 56/644 39 92",
-        "website": "http://oczemplin.sk/"
+        "website": "http://www.oczemplin.sk/"
       },
       "geometry": {
         "type": "Point",
@@ -8919,7 +8919,7 @@
         "address": "Nábrežná 7\r\n971 01 Prievidza\r\nSlovakia",
         "hours": "Mon-Sun: 6:00 am – 0:00 am (midnight)",
         "phone_number": "+421 46/518 41 11",
-        "website": "https://tesco.sk/obchody/detail-obchodu/prievidza-hypermarket/"
+        "website": "https://www.tesco.sk/obchody/detail-obchodu/prievidza-hypermarket/"
       },
       "geometry": {
         "type": "Point",
@@ -8937,7 +8937,7 @@
         "address": "Sladovnícka 1\r\nTrnava 917 01\r\nSlovensko",
         "hours": "Mon-Sun: 9:00 am – 9:00 pm",
         "phone_number": "+421 33/592 29 01",
-        "website": "http://mall.cityarena.tt/"
+        "website": "http://www.mall.cityarena.tt/"
       },
       "geometry": {
         "type": "Point",
@@ -8955,7 +8955,7 @@
         "address": "Veterná 40\r\n917 01 Trnava\r\nSlovakia",
         "hours": "Mon-Sun: 6:00 am – 0:00 am (midnight)",
         "phone_number": "+421 33/593 64 84",
-        "website": "https://trnava.ocgaleria.sk/"
+        "website": "https://www.trnava.ocgaleria.sk/"
       },
       "geometry": {
         "type": "Point",
@@ -9063,7 +9063,7 @@
         "address": "Piazzale Perlasca 1/B\r\nVestone, 25078\r\nItalia",
         "hours": "Tue: 3:00 pm – 7:00 pm\r\nWed: 9:30 am – 1:00 pm\r\nThu: 3:00 pm – 7:00 pm\r\nFri: 9:30 am – 1:00 pm\r\nSat-Mon: Closed",
         "phone_number": "+39 0365 820573",
-        "website": "https://valsabbiacoin.tech/"
+        "website": "https://www.valsabbiacoin.tech/"
       },
       "geometry": {
         "type": "Point",
@@ -9261,7 +9261,7 @@
         "address": "Via Maria Vittoria, 38\r\nTorino\r\nItaly",
         "hours": "Mon-Fri: 9:00 - 18:00",
         "phone_number": "+39 393 171 8264",
-        "website": "http://rinascimentisociali.org/"
+        "website": "http://www.rinascimentisociali.org/"
       },
       "geometry": {
         "type": "Point",
@@ -9297,7 +9297,7 @@
         "address": "Avenija Dubrovnik 16\r\nZagreb 10000\r\nCroatia",
         "hours": "Mon-Sun: 8:00 am – 1:00 am",
         "phone_number": "+385 1 6527 645",
-        "website": "https://avenuemall.hr/"
+        "website": "https://www.avenuemall.hr/"
       },
       "geometry": {
         "type": "Point",
@@ -9351,7 +9351,7 @@
         "address": "al. 1000-lecia Państwa Polskiego 8b\n15-111 Białystok\nPoland",
         "hours": "Mon-Sat: 8:00 – 22:00\r\nSun: 9:00 – 20:00",
         "phone_number": "+48 690 922 773",
-        "website": "http://galeria-m.pl/"
+        "website": "http://www.galeria-m.pl/"
       },
       "geometry": {
         "type": "Point",
@@ -9369,7 +9369,7 @@
         "address": "Miedzyborska 75a\nWarszawa, 04-038\nPoland",
         "hours": "Open 24/7",
         "phone_number": "+48782856461",
-        "website": "https://smartechs.eu/en/"
+        "website": "https://www.smartechs.eu/en/"
       },
       "geometry": {
         "type": "Point",
@@ -9387,7 +9387,7 @@
         "address": "Świdnicka 3\r\nWrocław, 53-319\r\nPoland",
         "hours": "Mon-Fri: 8:30 am – 10:00 pm\r\nSat: 9:00 am – 10:00 pm\r\nSun: Closed",
         "phone_number": "+48500400123",
-        "website": "http://centkantor.pl/"
+        "website": "http://www.centkantor.pl/"
       },
       "geometry": {
         "type": "Point",
@@ -9405,7 +9405,7 @@
         "address": "Przemysłowa 2\r\nGorzów Wielkopolski, 66-400\r\nPoland",
         "hours": "Mon-Sat: 9:00 am – 9:00 pm\r\nSun: 10:00 am – 8:00 pm",
         "phone_number": "",
-        "website": "http://nova-park.pl/"
+        "website": "http://www.nova-park.pl/"
       },
       "geometry": {
         "type": "Point",
@@ -9423,7 +9423,7 @@
         "address": "Wojska Polskiego 1\r\nBydgoszcz, 85-171\r\nPoland",
         "hours": "Mon-Sat: 9:00 am – 9:00 pm\r\nSun: 10:00 am – 8:00 pm",
         "phone_number": "+48 52 370 36 00",
-        "website": "http://zielonearkady.com.pl/"
+        "website": "http://www.zielonearkady.com.pl/"
       },
       "geometry": {
         "type": "Point",
@@ -9459,7 +9459,7 @@
         "address": "Fabryczna 2\n20-301 Lublin\nPoland",
         "hours": "Mon-Fri: 10:00 am – 7:00 pm\r\nSat: 10:00 am – 5:00 pm\r\nSun: 10:00 am – 3:00 pm",
         "phone_number": "+48 81 445 05 00",
-        "website": "http://gala.com.pl/"
+        "website": "http://www.gala.com.pl/"
       },
       "geometry": {
         "type": "Point",
@@ -9513,7 +9513,7 @@
         "address": "Aleja Grunwaldzka 82\r\nGdańsk, 80-244\r\nPoland",
         "hours": "Mon-Sat: 9:00 am – 9:00 pm\r\nSun: 10:00 am – 8:00 pm",
         "phone_number": "+48 58 767 70 16",
-        "website": "https://gchmanhattan.pl/"
+        "website": "https://www.gchmanhattan.pl/"
       },
       "geometry": {
         "type": "Point",
@@ -9531,7 +9531,7 @@
         "address": "Matyi 2\r\nPoznań, 61-586\r\nPoland",
         "hours": "Mon-Sat: 9:00 am – 9:00 pm\r\nSun: 9:00 am – 8:00 pm",
         "phone_number": "+48 61 667 39 95",
-        "website": "http://avenidapoznan.com/"
+        "website": "http://www.avenidapoznan.com/"
       },
       "geometry": {
         "type": "Point",
@@ -9621,7 +9621,7 @@
         "address": "Plac Tadeusza Kościuszki 1\r\nBytom, 41-902\r\nPoland",
         "hours": "Mon-Sat: 9:00 am – 9:00 pm\r\nSun: 10:00 am – 8:00 pm",
         "phone_number": "+48 690 227 557",
-        "website": "http://agorabytom.pl/"
+        "website": "http://www.agorabytom.pl/"
       },
       "geometry": {
         "type": "Point",
@@ -9639,7 +9639,7 @@
         "address": "Leszczyńska 20\r\nBielsko-Biała, 43-300\r\nPoland",
         "hours": "Mon-Sat: 9:00 am – 9:00 pm\r\nSun: 10:00 am – 8:00 pm",
         "phone_number": "+48 33 484 07 00",
-        "website": "http://bielskobiala.geminipark.pl/"
+        "website": "http://www.bielskobiala.geminipark.pl/"
       },
       "geometry": {
         "type": "Point",
@@ -9675,7 +9675,7 @@
         "address": "Aleja Pokoju 67\r\nKraków, 31-580\r\nPoland",
         "hours": "Mon-Sat: 9:00 am – 9:00 pm\r\nSun: 10:00 am – 8:00 pm",
         "phone_number": "+48 12 299 27 53",
-        "website": "https://zakupywm1.pl/m1-krakow"
+        "website": "https://www.zakupywm1.pl/m1-krakow"
       },
       "geometry": {
         "type": "Point",
@@ -9747,7 +9747,7 @@
         "address": "Plac Tadeusza Kościuszki 1\r\nBytom, 41-902\r\nPoland",
         "hours": "Mon-Sat: 9:00 am – 9:00 pm\r\nSun: 10:00 am – 8:00 pm",
         "phone_number": "",
-        "website": "http://agorabytom.pl/"
+        "website": "http://www.agorabytom.pl/"
       },
       "geometry": {
         "type": "Point",
@@ -9765,7 +9765,7 @@
         "address": "Towarowa 2c\r\n43-100 Tychy\r\nPoland",
         "hours": "Mon-Sat: 9:00 – 21:00\r\nSun: 9:00 – 20:00",
         "phone_number": "+48 32 213 86 01",
-        "website": "https://tychy.geminipark.pl/"
+        "website": "https://www.tychy.geminipark.pl/"
       },
       "geometry": {
         "type": "Point",
@@ -9783,7 +9783,7 @@
         "address": "Piłsudskiego 15/23\r\nŁódź, 90-307\r\nPoland",
         "hours": "Mon-Sat: 9:30 am – 9:00 pm\r\nSun: 10:00 am – 8:00 pm",
         "phone_number": "+48 42 639 15 19",
-        "website": "https://galeria-lodzka.pl/"
+        "website": "https://www.galeria-lodzka.pl/"
       },
       "geometry": {
         "type": "Point",
@@ -9801,7 +9801,7 @@
         "address": "Brzezińska 27/29\r\nŁódź, 92-103\r\nPoland",
         "hours": "Mon-Sat: 9:00 am – 9:00 pm\r\nSun: 9:00 am – 8:00 pm",
         "phone_number": "+48 42 616 37 01",
-        "website": "https://zakupywm1.pl/"
+        "website": "https://www.zakupywm1.pl/"
       },
       "geometry": {
         "type": "Point",
@@ -9837,7 +9837,7 @@
         "address": "ul. Plutonowego Ryszarda Szkubacza 1\r\n41-800 Zabrze\r\nPoland",
         "hours": "Mon-Sat: 9:00 – 21:00\r\nSun: 10:00 – 20:00",
         "phone_number": "+48 32 373 75 51",
-        "website": "https://zakupywm1.pl/m1-zabrze"
+        "website": "https://www.zakupywm1.pl/m1-zabrze"
       },
       "geometry": {
         "type": "Point",
@@ -9873,7 +9873,7 @@
         "address": "Fabryczna 2\n20-301 Lublin\nPoland",
         "hours": "Mon-Fri: 10:00 am – 7:00 pm\r\nSat: 10:00 am – 5:00 pm\r\nSun: 10:00 am – 3:00 pm",
         "phone_number": "+48 81 445 05 00",
-        "website": "http://gala.com.pl/"
+        "website": "http://www.gala.com.pl/"
       },
       "geometry": {
         "type": "Point",
@@ -9963,7 +9963,7 @@
         "address": "Zaplanjska 32\r\nBelgrade, 11000\r\nSerbia",
         "hours": "Mon-Fri: 8:15 am – 10:00 pm\r\nSat-Sun: 10:00 am – 10:00 pm",
         "phone_number": "+381 11 6161111",
-        "website": "https://stadionshoppingcenter.rs/"
+        "website": "https://www.stadionshoppingcenter.rs/"
       },
       "geometry": {
         "type": "Point",
@@ -10035,7 +10035,7 @@
         "address": "Einsteinstraße 143\r\n81675 München\r\nGermany",
         "hours": "Open 24/7",
         "phone_number": "+49 89 24215320",
-        "website": "http://ch-immobilien.net/impressum.html"
+        "website": "http://www.ch-immobilien.net/impressum.html"
       },
       "geometry": {
         "type": "Point",
@@ -10071,7 +10071,7 @@
         "address": "Waldstraße 31\r\n76133 Karlsruhe\r\nGermany",
         "hours": "Mon-Fri: 11:00 am – 8:00 pm\r\nSat: 11:00 am – 7:00 pm\r\nSun: Closed",
         "phone_number": "+49 721 46729567",
-        "website": "https://fitnessshop-karlsruhe.de/"
+        "website": "https://www.fitnessshop-karlsruhe.de/"
       },
       "geometry": {
         "type": "Point",
@@ -10107,7 +10107,7 @@
         "address": "Waldstraße 31\r\n76133 Karlsruhe\r\nGermany",
         "hours": "Mon-Fri: 11:00 am – 8:00 pm\r\nSat: 11:00 am – 7:00 pm\r\nSun: Closed",
         "phone_number": "+49 721 46729567",
-        "website": "https://fitnessshop-karlsruhe.de/"
+        "website": "https://www.fitnessshop-karlsruhe.de/"
       },
       "geometry": {
         "type": "Point",
@@ -10305,7 +10305,7 @@
         "address": "176 Parnell St\r\nRotunda, Dublin, D01 X4Y6\r\nIreland",
         "hours": "Mon-Sat: 10am–8pm\r\nSun: 11am–7pm",
         "phone_number": "+353 1 865 6958",
-        "website": "http://it-fix.ie/"
+        "website": "http://www.it-fix.ie/"
       },
       "geometry": {
         "type": "Point",
@@ -10341,7 +10341,7 @@
         "address": "32 Wicklow St\r\nDublin 2, D02 TV25\r\nIreland",
         "hours": "Mon-Sat: 9am–6pm\nSun: 12pm-6pm",
         "phone_number": "+353 21 235 5557",
-        "website": "https://pairmobile.ie/pages/cork-wilton"
+        "website": "https://www.pairmobile.ie/pages/cork-wilton"
       },
       "geometry": {
         "type": "Point",
@@ -10359,7 +10359,7 @@
         "address": "Liosban Business Park, 1a\r\nTuam Rd\r\nGalway\r\nIreland",
         "hours": "Mon-Wed: Closed\r\nThu-Fri: 2:00 pm – 9:00 pm\r\nSat-Sun: 11:00 am – 9:00 pm",
         "phone_number": "+353 91 726 294",
-        "website": "https://vrworld.ie/"
+        "website": "https://www.vrworld.ie/"
       },
       "geometry": {
         "type": "Point",
@@ -10377,7 +10377,7 @@
         "address": "Ruski 54\r\nPlovdiv\r\nBulgaria",
         "hours": "Mon-Sun: 10am–9pm",
         "phone_number": "+359 32 586 958",
-        "website": "https://markovotepemall.bg/"
+        "website": "https://www.markovotepemall.bg/"
       },
       "geometry": {
         "type": "Point",
@@ -10395,7 +10395,7 @@
         "address": "Tsarigradsko shose 115\r\nSofia\r\nBulgaria",
         "hours": "Mon-Sun: 10:00 am – 10:00 pm",
         "phone_number": "+359 2 878 7920",
-        "website": "http://themall.bg/"
+        "website": "http://www.themall.bg/"
       },
       "geometry": {
         "type": "Point",
@@ -10431,7 +10431,7 @@
         "address": "bul. \"Slivnitsa\" 185\r\n9009 g.k. Troshevo, Varna\r\nBulgaria",
         "hours": "Mon-Sun: 10:00 – 22:00",
         "phone_number": "+359 52 810 232",
-        "website": "http://deltaplanet.bg/"
+        "website": "http://www.deltaplanet.bg/"
       },
       "geometry": {
         "type": "Point",
@@ -10449,7 +10449,7 @@
         "address": "Bulevardul Aurel Vlaicu 220\r\nConstanța 900498\r\nRomania",
         "hours": "Mon-Sun: 10:00 am – 10:00 pm",
         "phone_number": "+40 341 462 039",
-        "website": "https://vivo-shopping.com/ro/constanta"
+        "website": "https://www.vivo-shopping.com/ro/constanta"
       },
       "geometry": {
         "type": "Point",
@@ -10467,7 +10467,7 @@
         "address": "Bulevardul Alexandru Lăpușneanu 116C\r\nConstanța, 900419\r\nRomania",
         "hours": "Mon-Sun: 10:00 – 22:00",
         "phone_number": "+40 310699266",
-        "website": "https://city-park.ro/"
+        "website": "https://www.city-park.ro/"
       },
       "geometry": {
         "type": "Point",
@@ -10521,7 +10521,7 @@
         "address": "Strada Ferdinand 38\r\nRâmnicu Vâlcea\r\nRomania",
         "hours": "Mon-Fri: 10:00 – 22:00",
         "phone_number": "+40 755 656 718",
-        "website": "https://shoppingcityramnicuvalcea.ro/"
+        "website": "https://www.shoppingcityramnicuvalcea.ro/"
       },
       "geometry": {
         "type": "Point",
@@ -10539,7 +10539,7 @@
         "address": "Calea Sever Bocu, Nr. 2\r\nTimișoara, 300254\r\nRomânia",
         "hours": "Mon-Fri: 10:00 am – 8:00 pm\r\nSat: 10:00 am – 7:00\r\nSun: Closed",
         "phone_number": "+40 356 424 408",
-        "website": "http://ccgaleria1.ro/"
+        "website": "http://www.ccgaleria1.ro/"
       },
       "geometry": {
         "type": "Point",
@@ -10557,7 +10557,7 @@
         "address": "Strada Aristide Demetriade 1\r\nTimișoara, 300088\r\nRomania",
         "hours": "Mon-Sun: 10:00 pm – 10:00 am",
         "phone_number": "+40 256 247 545",
-        "website": "http://iuliusmall.com/timisoara"
+        "website": "http://www.iuliusmall.com/timisoara"
       },
       "geometry": {
         "type": "Point",
@@ -10701,7 +10701,7 @@
         "address": "Calea Republicii 30\r\nOradea, 410159\r\nRomania",
         "hours": "Mon-Sun: 10:00 – 21:00",
         "phone_number": "+40 259 416 281",
-        "website": "https://crisul.ro/"
+        "website": "https://www.crisul.ro/"
       },
       "geometry": {
         "type": "Point",
@@ -10719,7 +10719,7 @@
         "address": "Alexandru Vaida Voevod 53B\r\nCluj-Napoca\r\nRomania",
         "hours": "Mon-Sun: 10:00 am – 10:00 pm",
         "phone_number": "+40 264 206 424",
-        "website": "http://iuliusmall.com/cluj/"
+        "website": "http://www.iuliusmall.com/cluj/"
       },
       "geometry": {
         "type": "Point",
@@ -10737,7 +10737,7 @@
         "address": "Strada Alexandru Vaida Voevod 53b\r\nCluj-Napoca, 400436\r\nRomania",
         "hours": "Mon-Sun: 10:00 pm – 10:00 am",
         "phone_number": "+40 264 206 424",
-        "website": "http://iuliusmall.com/cluj/"
+        "website": "http://www.iuliusmall.com/cluj/"
       },
       "geometry": {
         "type": "Point",
@@ -10755,7 +10755,7 @@
         "address": "Strada Bălcești 9\r\nBucurești 030221\r\nRomania",
         "hours": "Mon-Sun: 9:00 am – 2:00 am",
         "phone_number": "+40 310699266",
-        "website": "http://bitcoinromania.ro/"
+        "website": "http://www.bitcoinromania.ro/"
       },
       "geometry": {
         "type": "Point",
@@ -10773,7 +10773,7 @@
         "address": "Soseaua Nicolae Titulescu nr. 16,\r\nBucuresti\r\nRomania",
         "hours": "Mon-Sun: 10:00 am – 2:00 pm",
         "phone_number": "+40 310699266",
-        "website": "http://dubliner.ro/"
+        "website": "http://www.dubliner.ro/"
       },
       "geometry": {
         "type": "Point",
@@ -10791,7 +10791,7 @@
         "address": "Str. Patriei 2 Sec. 3\r\nBucharest\r\nRomania",
         "hours": "Open 24/7",
         "phone_number": "+40 760 431 063",
-        "website": "https://trade.bitcoinromania.ro/"
+        "website": "https://www.trade.bitcoinromania.ro/"
       },
       "geometry": {
         "type": "Point",
@@ -10827,7 +10827,7 @@
         "address": "Calea Floreasca 264 B\r\nBucharest\r\nRomania",
         "hours": "Mon-Sun: 10:00 – 22:00",
         "phone_number": "+40 730 246 246",
-        "website": "https://promenada.ro/"
+        "website": "https://www.promenada.ro/"
       },
       "geometry": {
         "type": "Point",
@@ -10845,7 +10845,7 @@
         "address": "Strada Brașov 25\r\nBucharest\r\nRomania",
         "hours": "Mon-Sun: 9:00 – 21:00",
         "phone_number": "-",
-        "website": "https://drumultaberelor.ro/ro"
+        "website": "https://www.drumultaberelor.ro/ro"
       },
       "geometry": {
         "type": "Point",
@@ -10863,7 +10863,7 @@
         "address": "DN65B F4\r\nPitești, 117140\r\nRomania",
         "hours": "Mon-Sun: 8:00 am – 9:00 pm",
         "phone_number": "+40 728 646 252",
-        "website": "https://pitestiretailpark.ro/"
+        "website": "https://www.pitestiretailpark.ro/"
       },
       "geometry": {
         "type": "Point",
@@ -10881,7 +10881,7 @@
         "address": "Bulevardul Tudor Vladimirescu\r\nIasi\r\nRomania",
         "hours": "Mon-Sun: 9:00 am – 10:00 pm",
         "phone_number": "+40 232 208 500",
-        "website": "http://iuliusmall.com/iasi/"
+        "website": "http://www.iuliusmall.com/iasi/"
       },
       "geometry": {
         "type": "Point",
