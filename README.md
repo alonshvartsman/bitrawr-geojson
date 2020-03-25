@@ -1,4 +1,4 @@
-# bitrawr-geojson
+# Open-Source Bitcoin ATM Locator
 
 Add your local Bitcoin ATM in geoJSON format
 
