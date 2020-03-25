@@ -1,5 +1,5 @@
 # Open-Source Bitcoin ATM Locator
-
+![](images/bitrawr-atm-map-screenshot.png)
 Add your local Bitcoin ATM in geoJSON format
 
 Here is an example of Bitcoin ATM in Australia
