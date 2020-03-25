@@ -3,6 +3,7 @@
 Add your local Bitcoin ATM in geoJSON format
 
 Here is an example of Bitcoin ATM in Australia
+```
 {
       "type": "Feature",
       "properties": {
@@ -21,3 +22,4 @@ Here is an example of Bitcoin ATM in Australia
         ]
       }
     },
+```
