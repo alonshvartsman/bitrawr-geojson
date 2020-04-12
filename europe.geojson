@@ -9868,24 +9868,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Galeria Gala",
-        "description": "Shopping mall",
-        "address": "Fabryczna 2\n20-301 Lublin\nPoland",
-        "hours": "Mon-Fri: 10:00 am – 7:00 pm\r\nSat: 10:00 am – 5:00 pm\r\nSun: 10:00 am – 3:00 pm",
-        "phone_number": "+48 81 445 05 00",
-        "website": "http://www.gala.com.pl/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.572903,
-          51.238883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Galeria Grochów",
         "description": "Beauty Parlour",
         "address": "Kobielska 23\r\n04-359 Warszawa\r\nPoland",
