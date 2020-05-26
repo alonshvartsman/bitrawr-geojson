@@ -28160,7 +28160,7 @@
         "description": "Convenience store",
         "address": "17074 Leslie St, Newmarket, ON, Canada",
         "hours": "Mon-Fri: 9am - 9pm\nSat: 8am - 9pm",
-        "phone_number": "+1 905-715-7077",
+        "phone_number": "905-715-7077",
         "website": "http://www.bitcoin4u.ca/"
       },
       "geometry": {
@@ -28168,6 +28168,24 @@
         "coordinates": [
           -79.429732, 
           44.054478
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "name": "King's Convenience",
+        "description": "Convenience store",
+        "address": "2190 King Rd, King City, ON, Canada",
+        "hours": "Mon-Fri: 9am - 9pm\nSat: 8am - 9pm",
+        "phone_number": "(905) 833-3548",
+        "website": "http://www.bitcoin4u.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5254572, 
+          43.9296466
         ]
       }
     },
