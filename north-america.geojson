@@ -28156,6 +28156,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Convenience4U",
+        "description": "Convenience store",
+        "address": "17074 Leslie St, Newmarket, ON",
+        "hours": "Mon-Fri: 9am - 9pm\nSat: 8am - 9pm",
+        "phone_number": "+1 905-715-7077",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.054478,
+          -79.429732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Basset Food Mart",
         "description": "Convenience store",
         "address": "41 S Bassett St\r\nMadison, WI 53703\r\nUSA",
