@@ -28189,6 +28189,60 @@
         ]
       }
     },
+     {
+      "type": "Feature",
+      "properties": {
+        "name": "Krish Convenience",
+        "description": "Convenience store",
+        "address": "1410 Major MacKenzie Dr W C-6, Maple, ON, Canada",
+        "hours": "Mon-Fri: 7:30am - 9:30pm\nSat: 8:30am - 9pm",
+        "phone_number": "(905) 303-3626",
+        "website": "http://www.bitcoin4u.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4853973, 
+          43.863619
+        ]
+      }
+    },
+      {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunny's Variety",
+        "description": "Convenience store",
+        "address": "1672 Dundas St East, Mississauga, ON, Canada",
+        "hours": "",
+        "phone_number": "(905) 804-1244",
+        "website": "http://www.bitcoin4u.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.576839, 
+          43.615276
+        ]
+      }
+    },
+             {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodbridge Mini Mart",
+        "description": "Convenience store",
+        "address": "7700 Pine Valley Drive, Woodbridge, ON, Canada",
+        "hours": "Mon-Sat: 7am - 10:30pm\nSun: 8am - 10pm",
+        "phone_number": "(905) 851-5199",
+        "website": "http://www.bitcoin4u.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5739526, 
+          43.782715
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
