@@ -25,3 +25,5 @@ Here is an example of Bitcoin ATM in Australia
       }
     },
 ```
+
+Once the ATM details have merged to master branch you will see the ATM live on www.bitrawr.com/bitcoin-atms 
