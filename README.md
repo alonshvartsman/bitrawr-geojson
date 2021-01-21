@@ -2,6 +2,8 @@
 ![](images/bitrawr-atm-map.png)
 Add your local Bitcoin ATM in geoJSON format
 
+The repository is seperated into 5 map regions: Asia, Europe, North America, South America, and Africa.
+
 Here is an example of Bitcoin ATM in Australia
 ```
 {
