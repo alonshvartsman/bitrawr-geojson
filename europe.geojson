@@ -10858,6 +10858,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Galerea Tbilisi",
+        "description": "Shopping mall",
+        "address": "2/4 Shota Rustaveli Ave, T'bilisi",
+        "hours": "Mon-Wed: 9:00 am – 10:00 pm\nThu-Fri: 9:00 am – 10:00 pm\nSat-Sun: 9:00 am – 10:00 pm",
+        "phone_number": "+995322500040",
+        "website": "https://cryptomat.com//"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.69432148104359,
+          44.80006810784966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Iulius Mall Iasi",
         "description": "Shopping mall",
         "address": "Bulevardul Tudor Vladimirescu\r\nIasi\r\nRomania",
