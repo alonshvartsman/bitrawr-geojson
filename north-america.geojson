@@ -28260,6 +28260,96 @@
           43.069535
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Azara Madison",
+        "description": "Tobacco store",
+        "address": "429 State St\r\nMadison, WI 53703\r\nUSA",
+        "hours": "Mon-Sat: 10am - 10pm\nSun: 11am - 7pm",
+        "phone_number": "(608) 630-8618",
+        "website": "https://azarahookah.com/locations/madison-wi/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.392792,
+          43.074662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stop & Shop Grocery",
+        "description": "Grocery store",
+        "address": "501 State St\r\nMadison, WI 53703\r\nUSA",
+        "hours": "Mon-Sun: 8:00 am – 3:00 am",
+        "phone_number": "(608) 256-9934",
+        "website": "https://stopandshop.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39383902637559,
+          43.07472533707129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amstar",
+        "description": "Gas station",
+        "address": "1129 S Park St\r\nMadison, WI 53715\r\nUSA",
+        "hours": "Mon-Sun: 4:00 am – 12:00 am",
+        "phone_number": "(608) 709-1110",
+        "website": "https://www.amstargas.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39633836459383,
+          43.054369736640176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madison Food Mart",
+        "description": "Grocery store",
+        "address": "902 E Johnson St\r\nMadison, WI 53703\r\nUSA",
+        "hours": "Mon-Sat: 8am - 11pm\nSun: 8am - 10pm",
+        "phone_number": "(608) 256-2075",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.37625878178235,
+          43.084671854529084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spirit",
+        "description": "Convenience store",
+        "address": "2801 University Ave\r\nMadison, WI 53704\r\nUSA",
+        "hours": "Mon-Sun: 8:00 am – 10:00 pm",
+        "phone_number": "(608) 630-8203",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.43661080026942,
+          43.074030953263
+        ]
+      }
     }
   ]
 }
